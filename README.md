@@ -1,3 +1,4 @@
+
 ## Hello, I'm Ho-Joong Kim 👋
 
 I am a Ph.D. student in the Department of Artificial Intelligence at Korea University.
@@ -10,13 +11,13 @@ My research interests include computer vision and deep learning, especially in t
 
 Here are my recent publications.
 
-- **Ho-Joong Kim**, Jung-Ho Hong, Heejo Kong, and Seong-Whan Lee, "TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression," **_CVPR_**, 2024.
+- **Ho-Joong Kim**, Jung-Ho Hong, Heejo Kong, and Seong-Whan Lee, "TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression," **_CVPR_**, 2024. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_TE-TAD_Towards_Full_End-to-End_Temporal_Action_Detection_via_Time-Aligned_Coordinate_CVPR_2024_paper.pdf) [[code]](https://github.com/Dotori-HJ/TE-TAD)
 
 - Yearang Lee, **Ho-Joong Kim**, and Seong-Whan Lee, "Text-Infused Attention and Foreground-Aware Modeling for Zero-Shot Temporal Action Detection," **_NeurIPS_**, 2024.
 
-- Heejo Kong, Suneung Kim, **Ho-Joong Kim**, and Seong-Whan Lee, "Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data," **_AAAI_**, 2024.
+- Heejo Kong, Suneung Kim, **Ho-Joong Kim**, and Seong-Whan Lee, "Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data," **_AAAI_**, 2024. [[code]](https://github.com/heejokong/UAGreg)
 
-You can find more details on my [Google Scholar](https://scholar.google.com/citations?user=magC6DgAAAAJ&hl=ko).
+You can find more my publications on my [Google Scholar](https://scholar.google.com/citations?user=magC6DgAAAAJ&hl=ko).
 
 <!-- ### Languages or Tools
 
