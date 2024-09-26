@@ -9,9 +9,9 @@ My research interests include computer vision and deep learning, especially in t
 
 Here are my recent publications.
 
-- **Ho-Joong Kim**, Jung-Ho Hong, Heejo Kong, and Seong-Whan Lee, TE-TAD: "Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression," *IEEE/CVF Conference on Computer Vision and Pattern Recognition **CVPR**)*, 2024.
+- **Ho-Joong Kim**, Jung-Ho Hong, Heejo Kong, and Seong-Whan Lee, "TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression," *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024.
 
-- Yearang Lee, **Ho-Joong Kim**, and Seong-Whan Lee, "Text-Infused Attention and Foreground-Aware Modeling for Zero-Shot Temporal Action Detection," *Advances in Neural Information Processing Systems **NeurIPS**)*, 2024.
+- Yearang Lee, **Ho-Joong Kim**, and Seong-Whan Lee, "Text-Infused Attention and Foreground-Aware Modeling for Zero-Shot Temporal Action Detection," *Advances in Neural Information Processing Systems (**NeurIPS**)*, 2024.
 
 - Heejo Kong, Suneung Kim, **Ho-Joong Kim**, and Seong-Whan Lee, "Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data," *AAAI Conference on Artificial Intelligence (**AAAI**)*, 2024.
 
