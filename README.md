@@ -25,4 +25,4 @@ You can find more details on my [Google Scholar](https://scholar.google.com/cita
 - OpenCV
 - Pytorch -->
 
-![Ho-Joong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotori-hj&show_icons=true&hide_border=True&include_all_commits=True&hide=prs)
+<!-- ![Ho-Joong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotori-hj&show_icons=true&hide_border=True&include_all_commits=True&hide=prs) -->
