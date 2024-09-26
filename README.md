@@ -20,6 +20,7 @@ Here are my recent publications.
    *AAAI Conference on Artificial Intelligence (**AAAI**)*, 2024.
 
 You can find more details on my Google Scholar
+
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-logo&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=magC6DgAAAAJ&hl=ko)
 
 <!-- ### Languages or Tools
