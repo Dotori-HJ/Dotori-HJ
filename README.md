@@ -15,7 +15,7 @@ Here are my recent publications.
 
 - Heejo Kong, Suneung Kim, **Ho-Joong Kim**, and Seong-Whan Lee, "Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data," *AAAI Conference on Artificial Intelligence (**AAAI**)*, 2024.
 
-You can find more details on my [Google Scholar](https://scholar.google.com/citations?user=magC6DgAAAAJ&hl=ko).
+You can find more details on my Google Scholar.
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-logo&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=magC6DgAAAAJ&hl=ko)
 
