@@ -5,7 +5,7 @@ I am a Ph.D. student in the Department of Artificial Intelligence at Korea Unive
 My research interests include computer vision and deep learning, especially in the field of video understanding and temporal action detection.
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-logo&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=magC6DgAAAAJ&hl=ko)
-[![CV](https://img.shields.io/badge/CV-FF7139?style=for-the-logo&logo=adobe&logoColor=white)](https://www.dropbox.com/scl/fi/cg6q1ohbioncs16gixckg/CV.pdf?rlkey=uz59jnrvwsuycu2w9izav12vc&st=d6y1dqui&dl=0)
+[![CV](https://img.shields.io/badge/CV-FF7139?style=for-the-logo&logo=adobe&logoColor=white)](https://www.dropbox.com/scl/fi/cg6q1ohbioncs16gixckg/CV.pdf?rlkey=uz59jnrvwsuycu2w9izav12vc&st=s6929o02&dl=0)
 
 ## 📚 Publications
 
