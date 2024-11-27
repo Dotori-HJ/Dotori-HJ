@@ -13,7 +13,7 @@ Here are my recent publications.
 
 - **Ho-Joong Kim**, Jung-Ho Hong, Heejo Kong, and Seong-Whan Lee, "TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression," **_CVPR_**, 2024. [[paper]](https://arxiv.org/abs/2404.02405) [[code]](https://github.com/Dotori-HJ/TE-TAD)
 
-- Yearang Lee, **Ho-Joong Kim**, and Seong-Whan Lee, "Text-Infused Attention and Foreground-Aware Modeling for Zero-Shot Temporal Action Detection," **_NeurIPS_**, 2024. [paper] [code]
+- Yearang Lee, **Ho-Joong Kim**, and Seong-Whan Lee, "Text-Infused Attention and Foreground-Aware Modeling for Zero-Shot Temporal Action Detection," **_NeurIPS_**, 2024. [[paper]](https://openreview.net/forum?id=kS9dciADtY) [[code]](https://github.com/YearangLee/Ti-FAD)
 
 - Heejo Kong, Suneung Kim, **Ho-Joong Kim**, and Seong-Whan Lee, "Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data," **_AAAI_**, 2024. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29227) [[code]](https://github.com/heejokong/UAGreg)
 
