@@ -11,7 +11,7 @@ My research interests include computer vision and deep learning, especially in t
 
 Here are my recent publications.
 
-- **Ho-Joong Kim**, YearangLee, Jung-Ho Hong, and Seong-Whan Lee, "DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer," **_CVPR_**, 2025. [paper] [code]
+- **Ho-Joong Kim**, Yearang Lee, Jung-Ho Hong, and Seong-Whan Lee, "DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer," **_CVPR_**, 2025. [paper] [code]
 
 - Jung-Ho Hong, **Ho-Joong Kim**, Kyu-Sung Jeon, and Seong-Whan Lee, "Comprehensive Information Bottleneck for Unveiling Universal Attribution to Interpret Vision Transformers," **_CVPR_**, 2025. [paper] [code]
 
