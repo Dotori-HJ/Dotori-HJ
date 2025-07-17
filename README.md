@@ -15,7 +15,7 @@ Here are my recent publications.
 
 - **Ho-Joong Kim**, Yearang Lee, Jung-Ho Hong, and Seong-Whan Lee, "DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer," **_CVPR_**, 2025. [[paper]](https://arxiv.org/abs/2505.05711) [[code]](https://github.com/Dotori-HJ/DiGIT)
 
-- Jung-Ho Hong, **Ho-Joong Kim**, Kyu-Sung Jeon, and Seong-Whan Lee, "Comprehensive Information Bottleneck for Unveiling Universal Attribution to Interpret Vision Transformers," **_CVPR_**, 2025. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Hong_Comprehensive_Information_Bottleneck_for_Unveiling_Universal_Attribution_to_Interpret_Vision_CVPR_2025_paper.pdf) [code]
+- Jung-Ho Hong, **Ho-Joong Kim**, Kyu-Sung Jeon, and Seong-Whan Lee, "Comprehensive Information Bottleneck for Unveiling Universal Attribution to Interpret Vision Transformers," **_CVPR (Highlight)_**, 2025. [[paper]](https://arxiv.org/abs/2507.04388) [[code]](https://github.com/KU-HJH/CoIBA)
 
 - **Ho-Joong Kim**, Jung-Ho Hong, Heejo Kong, and Seong-Whan Lee, "TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression," **_CVPR_**, 2024. [[paper]](https://arxiv.org/abs/2404.02405) [[code]](https://github.com/Dotori-HJ/TE-TAD)
 
