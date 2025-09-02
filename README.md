@@ -6,7 +6,7 @@ My research focuses on computer vision and video understanding, particularly tem
 I've worked on various video-related tasks, and more recently, I've been exploring vision-language modeling to integrate visual and language representations for various video applications.
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-logo&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=magC6DgAAAAJ&hl=ko)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-logo&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-joong-kim-a545212b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-logo&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hojoong-kim-dotori)
 [![CV](https://img.shields.io/badge/CV-FF7139?style=for-the-logo&logo=readdotcv&logoColor=white)](https://dotori-hj.github.io/CV.pdf)
 
 ## 📚 Publications
