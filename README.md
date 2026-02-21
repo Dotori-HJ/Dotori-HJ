@@ -13,7 +13,7 @@ I've worked on various video-related tasks, and more recently, I've been explori
 
 Here are my recent publications.
 
-- Yearang Lee, - **Ho-Joong Kim**, and Seong-Whan Lee, "TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection," **_CVPR_**, 2026. [paper] [code]
+- Yearang Lee, **Ho-Joong Kim**, and Seong-Whan Lee, "TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection," **_CVPR_**, 2026. [paper] [code]
 
 - **Ho-Joong Kim**, Yearang Lee, Jung-Ho Hong, and Seong-Whan Lee, "DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer," **_CVPR_**, 2025. [[paper]](https://arxiv.org/abs/2505.05711) [[code]](https://github.com/Dotori-HJ/DiGIT)
 
